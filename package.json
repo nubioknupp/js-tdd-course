@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso JS com TDD na Prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nubioknupp/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Nubio Knupp <nubioknupp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nubioknupp/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/nubioknupp/js-tdd-course#readme"
+}
